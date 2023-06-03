@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cw-ai/cw-ai.iml" filepath="$PROJECT_DIR$/cw-ai/cw-ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw-model/cw-model.iml" filepath="$PROJECT_DIR$/cw-model/cw-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sy.iml" filepath="$PROJECT_DIR$/.idea/sy.iml" />
+    </modules>
+  </component>
+</project>
